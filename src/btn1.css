@@ -1,0 +1,11 @@
+.btn1 {
+  position: relative;
+  margin-top: 10px;
+  left: 94%;
+  width: 70px;
+  height: 40px;
+  background-color: rgb(29, 29, 190);
+  color: white;
+  outline: blue;
+  border: none;
+}
